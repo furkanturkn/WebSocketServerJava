@@ -1,4 +1,4 @@
-# WebSocketServerJava
+# WebSocket Server Java
 Web socket server - java
 
 My medium article about WebSocket: 
